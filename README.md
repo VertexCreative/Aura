@@ -42,7 +42,7 @@ Ensure your project folder looks like this:
 /Aura-Engine
   ├── index.html        (Rename aura.html to index.html for standalone use)
   ├── README.md
-  └── assets/           (Optional: For local icons if not using CDN)
+  └── assets/           (Optional: For local icons if not using CDN)```
 ### 2. How to Run
 
 **Option A: VS Code (Recommended)**
@@ -57,7 +57,7 @@ Ensure your project folder looks like this:
     ```bash
     python -m http.server
     ```
-3.  Open your web browser and navigate to `localhost:8000`.```
+3.  Open your web browser and navigate to `localhost:8000`.
 
 ---
 

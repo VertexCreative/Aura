@@ -57,7 +57,7 @@ Ensure your project folder looks like this:
     ```bash
     python -m http.server
     ```
-3.  Open your web browser and navigate to `localhost:8000`.
+3.  Open your web browser and navigate to `localhost:8000`.```
 
 ---
 

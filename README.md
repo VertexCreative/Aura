@@ -42,7 +42,7 @@ Ensure your project folder looks like this:
 /Aura-Engine
   ├── index.html        (Rename aura.html to index.html for standalone use)
   ├── README.md
-  └── assets/           (Optional: For local icons if not using CDN)```
+  └── assets/           (Optional: For local icons if not using CDN)text```
 ### 2. How to Run
 
 **Option A: VS Code (Recommended)**
